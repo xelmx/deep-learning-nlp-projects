@@ -16,3 +16,4 @@ This repository contains my projects from my ITE Elective 4 course on Deep Learn
 *   NLTK
 *   spaCy
 *   Scikit-learn
+*   Hugging Face Transformers
